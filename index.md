@@ -1,22 +1,22 @@
 ---
 layout: promo-page
 title: Qui suis-je?
-description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
+description: "Ceci est mon CV"
 menubar: menu_bar
 hero_image: assets/imgs/image.png
 hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Marquet Abel
+Elève ingénieur a Unilasalle Amiens 
 
 
-Disponible XX mois à partir de Date
+Disponible 1 mois à partir du 1 juillet
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[abel.marquet@etu.unilasalle.fr](abel.marquet@etu.unilasalle.fr)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[LinkedIn](https://www.linkedin.com/in/Abel.Marquet)
 
-Permis B, voiture
+Permis AM
 
