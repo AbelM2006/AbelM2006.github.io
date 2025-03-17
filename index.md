@@ -9,7 +9,7 @@ hero_image_ratio: is-1by1
 ---
 
 # Marquet Abel
-Elève ingénieur a Unilasalle Amiens 
+Elève en cycle pré-ingénieur a Unilasalle Amiens 
 
 
 Disponible 1 mois à partir du 1 juillet
