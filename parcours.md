@@ -8,27 +8,25 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
+`2024 – 2024`
 **Nom de votre école**
 
-Elève ingénieur en [préciser la spécialité]
+Elève ingénieur en Energie et Numérique
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+
+`2024`
+Bac Général specialité Mathématique Physique-Chimie, mention bien , Amiens
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2025` **Projet de conception 3D**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Réalisé en équipe de 4 étudiants_
+* modélisation 3D de notre projet sur oneshape 
+* impression avec des  imprimante 3D et decoupe laser  
+* assemblage et finition 
 
 
 `20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
